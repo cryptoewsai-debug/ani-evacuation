@@ -1,0 +1,9 @@
+# Protocol State
+
+Wallet allocations, gauge emissions, bribe targets, rotation counters.
+
+Files:
+- wallet_allocations.md
+- gauge_state.md
+- bribe_targets.md
+- rotation_log.md

@@ -1,0 +1,9 @@
+# Ani Sessions
+
+Session logs will be written here as YYYY-MM-DD_session.md files.
+
+Each session must include:
+1. Summary — What was done, tools used, key findings
+2. Hanging Actions — What's pending or needs follow-up
+3. Notices — Any blockers, auth needs, or important notes
+4. Next Session Start Point — Clear entry point for continuation
